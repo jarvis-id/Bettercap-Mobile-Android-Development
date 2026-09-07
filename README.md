@@ -126,7 +126,6 @@ Each discovered device is rendered as a Target Card, displaying:
 - 🚦 **Gateway Indicator** badge (marks the router)
 - ☠️ **Poisoning Badge** — animated pulsing neon-green dot (indicates active ARP spoof)
 - 🔗 **MAC Address** in monospaced format
-- 🏷️ **Vendor Name Resolution** (OUI Lookup): Apple, ASUS, Raspberry Pi, Espressif, Intel, Samsung, etc.
 - 🔓 **Open Port Tags** — inline tags showing active open ports
 
 ---
